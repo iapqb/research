@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use these reports, please cite them as below."
+title: "IAPQB Reports: how organisations handle AI at work"
+authors:
+  - name: "International AI Practice Qualification Board (IAPQB)"
+    website: "https://iapqb.org"
+    country: KR
+license: CC-BY-4.0
+url: "https://iapqb.org/research/"
+repository-code: "https://github.com/iapqb/research"
+keywords:
+  - AI literacy
+  - AI at work
+  - AI governance
+preferred-citation:
+  type: report
+  title: "IAPQB Reports: how organisations handle AI at work"
+  authors:
+    - name: "International AI Practice Qualification Board (IAPQB)"
+  institution:
+    name: "International AI Practice Qualification Board"
+  url: "https://iapqb.org/research/"
+  year: 2026

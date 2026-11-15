@@ -1,0 +1,29 @@
+{
+  "title": "IAPQB Reports: how organisations handle AI at work",
+  "description": "<p>Research reports by the International AI Practice Qualification Board (IAPQB). Each report sets out a problem, the documented cases behind it (court decisions, regulators' documents, standards, company statements and peer-reviewed studies) and what practitioners now do about it. Every source is opened and checked before publication. Report 01 is a data report on AI-related private qualifications in South Korea, with its data and aggregation script.</p><p>Web versions: https://iapqb.org/research/</p>",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "creators": [
+    {
+      "name": "International AI Practice Qualification Board (IAPQB)"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "AI literacy",
+    "AI at work",
+    "generative AI",
+    "AI governance",
+    "case studies",
+    "workplace practice"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://iapqb.org/research/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
